@@ -146,7 +146,7 @@ do {
         });
     }
     
-    //  heroMove
+    // heroMove
 
     let heroMove;
 
